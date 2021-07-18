@@ -12,7 +12,6 @@ namespace PhoneStore.Models
         public string Address { get; set; }
         public string ContactPhone { get; set; }
 
-
         public int PhoneId { get; set; } 
         public Phone Phone { get; set; }
     }

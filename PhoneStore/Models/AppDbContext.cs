@@ -15,7 +15,5 @@ namespace PhoneStore.Models
         {
             Database.EnsureCreated();
         }
-
-
     }
 }
