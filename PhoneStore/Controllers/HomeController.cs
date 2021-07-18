@@ -47,7 +47,5 @@ namespace PhoneStore.Controllers
 
             return View("Thanks");
         }
-
-
     }
 }
